@@ -1,0 +1,16 @@
+C:\Users\lhf\Desktop\资讯\运营端\news\news\bin\Debug\news.exe.config
+C:\Users\lhf\Desktop\资讯\运营端\news\news\bin\Debug\news.exe
+C:\Users\lhf\Desktop\资讯\运营端\news\news\bin\Debug\news.pdb
+C:\Users\lhf\Desktop\资讯\运营端\news\news\bin\Debug\Newtonsoft.Json.dll
+C:\Users\lhf\Desktop\资讯\运营端\news\news\obj\Debug\news.csprojResolveAssemblyReference.cache
+C:\Users\lhf\Desktop\资讯\运营端\news\news\obj\Debug\news.MClientManagerForm.resources
+C:\Users\lhf\Desktop\资讯\运营端\news\news\obj\Debug\news.MMainForm.resources
+C:\Users\lhf\Desktop\资讯\运营端\news\news\obj\Debug\news.MNewsManagerForm.resources
+C:\Users\lhf\Desktop\资讯\运营端\news\news\obj\Debug\news.Properties.Resources.resources
+C:\Users\lhf\Desktop\资讯\运营端\news\news\obj\Debug\news.csproj.GenerateResource.Cache
+C:\Users\lhf\Desktop\资讯\运营端\news\news\obj\Debug\news.exe
+C:\Users\lhf\Desktop\资讯\运营端\news\news\obj\Debug\news.pdb
+C:\Users\lhf\Desktop\资讯\运营端\news\news\obj\Debug\news.MImageManagerForm.resources
+C:\Users\lhf\Desktop\资讯\运营端\news\news\obj\Debug\news.MAppUIManagerForm.resources
+C:\Users\lhf\Desktop\资讯\运营端\news\news\obj\Debug\news.ManageProductForm.resources
+C:\Users\lhf\Desktop\资讯\运营端\news\news\bin\Debug\TopSdk.dll
